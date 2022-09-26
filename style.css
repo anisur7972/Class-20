@@ -1,0 +1,26 @@
+/* Header Section Css Start  */
+header{
+    background-color: #e3f2fd;
+    margin-bottom: 40px;
+}
+.container a img {
+    width: 50px;
+}
+
+/* Header Section Css End */
+.breadcrum-bg-color{
+    background-color: #e9ecef;
+}
+/* Banner-section Css Start  */
+.carousel-item img{
+    height: 400px;
+}
+/* Banner-section Css End */
+
+/* Footer Section Css Start  */
+footer{
+    background-color: #17a2b8;
+}
+/* Footer Section Css End */
+
+      
